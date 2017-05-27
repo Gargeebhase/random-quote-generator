@@ -1,0 +1,21 @@
+body{
+  background-image:url("http://i1320.photobucket.com/albums/u539/Gargeebhase/background1_zpscqt4dngp.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.image.jpg',sizingMethod='scale');
+   -ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='image.jpg',sizingMethod='scale')";
+}
+.class1{
+  text-align:center;
+  font-family:Tahoma, Geneva, sans-serif;
+font-size:30px;
+  font-weight:bold;
+ background-color:white;
+  border-radius:15px;
+position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)  
+  
+}
